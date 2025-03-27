@@ -1,4 +1,4 @@
-# 🤖 VulcanV1 - Humanoid Robotic Arm / Brazo Robótico Humanoide
+# 🤖 #VulcanV1 - Humanoid Robotic Arm / Brazo Robótico Humanoide
 
 **Idioma/Language**:  
 [🇻🇪 Español](#español) | [🇬🇧 English](#english)
@@ -21,9 +21,9 @@
 |--------------------------|-----------------------------------|
 | Microcontrolador         | Arduino Uno o Nano                |
 | Controlador de servos    | Módulo PCA9685                   |
-| Servos                   | 5x SG90 (9g) para dedos          |
-|                          | 1x MG996R (25kg) para codo       |
-|                          | 2x MG995 (180kg) para hombro     |
+| Servos                   | 5x (9g) para dedos          |
+|                          | 1x (25kg) para codo       |
+|                          | 2x (180kg) para hombro     |
 | Impresión 3D             | Filamento PLA y Nylon            |
 | Fuentes de poder         | 5V 20A + 24V 20A                |
 
@@ -49,9 +49,9 @@
 |-------------------------|----------------------------------|
 | Microcontroller        | Arduino Uno or Nano             |
 | Servo Controller       | PCA9685 Module                  |
-| Servos                 | 5x SG90 (9g) for fingers        |
-|                        | 1x MG996R (25kg) for elbow      |
-|                        | 2x MG995 (180kg) for shoulder   |
+| Servos                 | 5x (9g) for fingers        |
+|                        | 1x (25kg) for elbow      |
+|                        | 2x (180kg) for shoulder   |
 | 3D Printing            | PLA + Nylon filament            |
 | Power Supplies         | 5V 20A + 24V 20A               |
 
