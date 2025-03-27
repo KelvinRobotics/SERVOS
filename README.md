@@ -12,7 +12,9 @@
 **VulcanV1** es un brazo robótico humanoide de **tamaño real y apariencia realista**, imprimible en 3D, capaz de:  
 - Movimiento independiente de los 5 dedos (con 5 servos por dedo).  
 - Flexión de codo (1 servo).  
-- Dos movimientos en el hombro (2 servos).  
+- Dos movimientos en el hombro (2 servos).
+- ### 📸 Project View
+![Humanoid Robotic arm](IMG_20210111_152952(1).jpg)
 
 🎥 **Video ensamblaje**: [Ver en YouTube](https://youtu.be/lHEPIue6Ml0)  
 
