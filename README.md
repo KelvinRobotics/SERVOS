@@ -14,7 +14,7 @@
 - Flexión de codo (1 servo).  
 - Dos movimientos en el hombro (2 servos).
 - ### 📸 Project View
-![Humanoid Robotic arm](IMG_20210111_152952(1).jpg)
+![Humanoid Robotic arm](https://github.com/KelvinRobotics/VulcanV1/blob/main/Robotic%20Arm%20%23VulcanV1%20date%2020210111.jpg)
 
 🎥 **Video ensamblaje**: [Ver en YouTube](https://youtu.be/lHEPIue6Ml0)  
 
@@ -42,7 +42,9 @@
 **VulcanV1** is a **life-size, realistic-appearance 3D-printed humanoid robotic arm** featuring:  
 - Independent movement of all 5 fingers (5 servos per finger).  
 - Elbow flexion (1 servo).  
-- Dual-axis shoulder movement (2 servos).  
+- Dual-axis shoulder movement (2 servos).
+- - ### 📸 Project View
+![Humanoid Robotic arm](https://github.com/KelvinRobotics/VulcanV1/blob/main/Robotic%20Arm%20%23VulcanV1%20date%2020210111.jpg)
 
 🎥 **Assembly video**: [Watch on YouTube](https://youtu.be/0z9FyuyzCs4)  
 
