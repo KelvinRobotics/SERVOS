@@ -14,7 +14,7 @@
 - Flexión de codo (1 servo).  
 - Dos movimientos en el hombro (2 servos).  
 
-🎥 **Video demostración**: [Ver en YouTube](https://youtu.be/lHEPIue6Ml0)  
+🎥 **Video ensamblaje**: [Ver en YouTube](https://youtu.be/lHEPIue6Ml0)  
 
 ### 🔧 Materiales necesarios  
 | Componente               | Especificaciones                  |
@@ -42,7 +42,7 @@
 - Elbow flexion (1 servo).  
 - Dual-axis shoulder movement (2 servos).  
 
-🎥 **Demo video**: [Watch on YouTube](https://youtu.be/0z9FyuyzCs4)  
+🎥 **Assembly video**: [Watch on YouTube](https://youtu.be/0z9FyuyzCs4)  
 
 ### 🔧 Required Materials  
 | Component               | Specifications                   |
